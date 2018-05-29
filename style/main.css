@@ -1,0 +1,50 @@
+body{
+	background: black;
+	color: white;
+
+
+}
+
+
+button{
+	width: 190px;
+	height: 35px;
+
+
+
+}
+
+div{
+
+	color: white;
+text-align: center;
+ display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+	border-radius: 3%;
+	background: #FF5733;
+	border: 0;
+	color: white;
+	width: 300px;
+}
+
+h1{
+	padding-top: 150px;
+	font-size: 60px;
+	font-family: Raleway;
+}
+
+#data{
+font-size: 40px;
+	font-family: Nanum Gothic;
+	text-transform: capitalize;
+}
+
+#icon{
+	display: none;
+	 margin-left: auto;
+    margin-right: auto;
+}
